@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RapidPay.Api</name>
+    </assembly>
+    <members>
+        <member name="T:RapidPay.Api.Controllers.CardManagementController">
+            <summary>
+            The card management module includes three API endpoints
+            </summary>
+            <param name="cardManagementService"></param>
+        </member>
+        <member name="M:RapidPay.Api.Controllers.CardManagementController.#ctor(RapidPay.Application.Interfaces.ICardManagementService)">
+            <summary>
+            The card management module includes three API endpoints
+            </summary>
+            <param name="cardManagementService"></param>
+        </member>
+        <member name="M:RapidPay.Api.Controllers.CardManagementController.CreateCard(RapidPay.Application.Dto.CardDto)">
+            <summary>
+            Create card (card format is 15 digits)
+            </summary>
+            <param name="cardDto">data for new card</param>
+            <returns>Created card data</returns>
+        </member>
+        <member name="M:RapidPay.Api.Controllers.CardManagementController.Pay(System.String,System.Decimal)">
+            <summary>
+            Pay (using the created card, and update balance)
+            </summary>
+            <param name="number">Card Number for the payment</param>
+            <param name="amount">Payment amount</param>
+            <returns>the card's new balance after the payment</returns>
+        </member>
+        <member name="M:RapidPay.Api.Controllers.CardManagementController.GetCardBalance(System.String)">
+            <summary>
+            Get card balance
+            </summary>
+            <param name="number">Card Number for the search</param>
+            <returns>the card current balance</returns>
+        </member>
+    </members>
+</doc>

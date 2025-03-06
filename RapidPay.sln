@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidPay.Api", "RapidPay.Api\RapidPay.Api.csproj", "{0AAD2F86-96F6-43F0-85F2-86E3EF854B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidPay.Application", "RapidPay.Application\RapidPay.Application.csproj", "{86599EB4-FA17-4DBA-A51E-46ACAA96A135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidPay.Domain", "RapidPay.Domain\RapidPay.Domain.csproj", "{29492173-C6AD-4130-A21E-EA409A866C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidPay.Infrastructure", "RapidPay.Infrastructure\RapidPay.Infrastructure.csproj", "{23693016-B1A3-4F51-B4FA-FE38C1D519C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AAD2F86-96F6-43F0-85F2-86E3EF854B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AAD2F86-96F6-43F0-85F2-86E3EF854B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AAD2F86-96F6-43F0-85F2-86E3EF854B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AAD2F86-96F6-43F0-85F2-86E3EF854B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86599EB4-FA17-4DBA-A51E-46ACAA96A135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86599EB4-FA17-4DBA-A51E-46ACAA96A135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86599EB4-FA17-4DBA-A51E-46ACAA96A135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86599EB4-FA17-4DBA-A51E-46ACAA96A135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29492173-C6AD-4130-A21E-EA409A866C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29492173-C6AD-4130-A21E-EA409A866C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29492173-C6AD-4130-A21E-EA409A866C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29492173-C6AD-4130-A21E-EA409A866C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23693016-B1A3-4F51-B4FA-FE38C1D519C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23693016-B1A3-4F51-B4FA-FE38C1D519C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23693016-B1A3-4F51-B4FA-FE38C1D519C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23693016-B1A3-4F51-B4FA-FE38C1D519C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

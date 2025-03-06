@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Api/RapidPay.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Api/RapidPay.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Api/RapidPay.Api.csproj",
+        "projectName": "RapidPay.Api",
+        "projectPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Api/RapidPay.Api.csproj",
+        "packagesPath": "/Users/gerardoherrerabalderrama/.nuget/packages/",
+        "outputPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gerardoherrerabalderrama/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Application/RapidPay.Application.csproj": {
+                "projectPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Application/RapidPay.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Application/RapidPay.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Application/RapidPay.Application.csproj",
+        "projectName": "RapidPay.Application",
+        "projectPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Application/RapidPay.Application.csproj",
+        "packagesPath": "/Users/gerardoherrerabalderrama/.nuget/packages/",
+        "outputPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gerardoherrerabalderrama/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/RapidPay.Domain.csproj": {
+                "projectPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/RapidPay.Domain.csproj"
+              },
+              "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Infrastructure/RapidPay.Infrastructure.csproj": {
+                "projectPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Infrastructure/RapidPay.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/RapidPay.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/RapidPay.Domain.csproj",
+        "projectName": "RapidPay.Domain",
+        "projectPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/RapidPay.Domain.csproj",
+        "packagesPath": "/Users/gerardoherrerabalderrama/.nuget/packages/",
+        "outputPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gerardoherrerabalderrama/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Infrastructure/RapidPay.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Infrastructure/RapidPay.Infrastructure.csproj",
+        "projectName": "RapidPay.Infrastructure",
+        "projectPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Infrastructure/RapidPay.Infrastructure.csproj",
+        "packagesPath": "/Users/gerardoherrerabalderrama/.nuget/packages/",
+        "outputPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gerardoherrerabalderrama/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/RapidPay.Domain.csproj": {
+                "projectPath": "/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/RapidPay.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/bin/Debug/net8.0/RapidPay.Domain.deps.json
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/bin/Debug/net8.0/RapidPay.Domain.dll
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/bin/Debug/net8.0/RapidPay.Domain.pdb
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.AssemblyInfoInputs.cache
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.AssemblyInfo.cs
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.csproj.CoreCompileInputs.cache
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.dll
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/Debug/net8.0/refint/RapidPay.Domain.dll
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.pdb
+/Users/gerardoherrerabalderrama/RiderProjects/RapidPay/RapidPay.Domain/obj/Debug/net8.0/ref/RapidPay.Domain.dll
