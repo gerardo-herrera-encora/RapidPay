@@ -9,7 +9,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edb9d0cb-bfec-4b1a-9fc2-9132832d7e8b" name="Changes" comment="" />
+    <list default="true" id="edb9d0cb-bfec-4b1a-9fc2-9132832d7e8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RapidPay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RapidPay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Api/obj/Debug/net8.0/RapidPay.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Api/obj/Debug/net8.0/RapidPay.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Api/obj/Debug/net8.0/RapidPay.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Api/obj/Debug/net8.0/RapidPay.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Api/obj/Debug/net8.0/RapidPay.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Api/obj/Debug/net8.0/RapidPay.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Api/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Api/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Application/obj/Debug/net8.0/RapidPay.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Application/obj/Debug/net8.0/RapidPay.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Application/obj/Debug/net8.0/RapidPay.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Application/obj/Debug/net8.0/RapidPay.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Application/obj/Debug/net8.0/RapidPay.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Application/obj/Debug/net8.0/RapidPay.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Domain/obj/Debug/net8.0/RapidPay.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Infrastructure/obj/Debug/net8.0/RapidPay.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Infrastructure/obj/Debug/net8.0/RapidPay.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Infrastructure/obj/Debug/net8.0/RapidPay.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Infrastructure/obj/Debug/net8.0/RapidPay.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Infrastructure/obj/Debug/net8.0/RapidPay.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Infrastructure/obj/Debug/net8.0/RapidPay.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RapidPay.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RapidPay.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,13 +35,16 @@
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1b445ceb1c5ab1d07b7b55412b10a5e21169ec87228ca8ad8a18a6982f3278/ControllerBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1fff23495a314f18b30a4b0feca0421f4ad1c46316f889aed22b1cd471a/XmlTextReaderImpl.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2tgxT06pmslbuDOnLOlI3iJFbk0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +55,7 @@
     ".NET Launch Settings Profile.RapidPay.Api: http.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "XThreadsFramesViewSplitterKey": "0.68210524",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740787522788</updated>
-      <workItem from="1740787523827" duration="37279000" />
+      <workItem from="1740787523827" duration="38566000" />
     </task>
     <servers />
   </component>
